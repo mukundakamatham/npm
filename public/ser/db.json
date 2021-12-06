@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "age": "1089890"
+    },
+    {
+      "id": 2,
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Bob Taylor",
+      "age": 45,
+      "active": false
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": 10,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "age": 7,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "age": 2.5,
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Chocolate",
+      "price": 6,
+      "active": true
+    },
+    {
+      "id": 44,
+      "name": "kit-kat",
+      "price": 6,
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "choco",
+      "price": 6,
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "CHOCO-milk",
+      "price": 6,
+      "active": true
+    }
+  ]
+}
